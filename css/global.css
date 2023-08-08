@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.row {
+    display: flex;
+}
+
+a {
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    z-index: 2;
+    font-family: Vidaloka, serif;
+}
+
+li {
+    list-style-type: none;
+    text-transform: uppercase;
+}
